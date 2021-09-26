@@ -1,0 +1,39 @@
+body{
+    /* font-family: 'Oswald', sans-serif; */
+    /* font-family: 'Bebas Neue', cursive; */
+    font-family: 'Dancing Script', cursive;
+}
+/* #form-review{
+    display: none;
+} */
+
+#cv-review{
+    display: none;
+} 
+#header{
+    background: aqua;
+    padding: 15px;
+}
+.container{
+    background: rgb(248, 245, 245);
+    font-weight: 400;
+    text-transform: capitalize;
+    font-size: 15px;
+}
+
+.myImage{
+    width: 60%;
+    border: 1px solid black;
+    border-radius: 50%;
+
+}
+.col-md-3{
+    background: aqua;
+}
+.col-md-9{
+    background:rgb(195, 241, 241);
+}
+.card-header:first-child{
+    background: aqua;
+}
+
