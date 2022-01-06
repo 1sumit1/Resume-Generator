@@ -5,7 +5,7 @@
 
 This is my third mini project on Resume Generator.
 
-#Link-https://zealous-swirles-af3c8c.netlify.app/
+#Link-https://modest-bartik-900802.netlify.app/
 
 ## Specific Features:
 
